@@ -11,4 +11,4 @@ This guide was inspired by [teachyourselfcs.com](https://teachyourselfcs.com/)
 
 # 01: Programming
 
-[ ] [Computer Science 61A - Lecture 1: functional programming 1](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8)
+[ ] Watch [Computer Science 61A - Lecture 1: functional programming 1](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8)
