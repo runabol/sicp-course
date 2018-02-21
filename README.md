@@ -2,12 +2,18 @@
 
 The purpose of this plan is to provide a solid path for a practicing engineer seeking to deepen his/her understanding of the computer science that underlie their work. 
 
-If you're came here to learn some language then you came to the wrong place. There are plenty of fine tutorials out there that you can refer to for this. 
+This curiculum is not necessarily meant for a novice engineer just starting out though these are welcome to stay and may be wise in starting their career on solid footing. That said, it is believed that practicing engineers will make the most out of it as they have practical experience with the subject which they can align to the information contained in this course.
 
 On the other hand, if you're here because you want to take your working knowledge to a whole new level and because you've always been fascinated by the 
 underlying principles that make computers work both on the hardware and software level then you came to the right place. 
 
 This guide was inspired by [teachyourselfcs.com](https://teachyourselfcs.com/)
+
+# How to use this guide? 
+
+Fork the repo.
+
+The program is divided into 9 modules. Each module in turn is divided to items to be studied. Study each item in sequence and check off each item once you've finished it and move on to the next item.  
 
 # 01: Programming
 
