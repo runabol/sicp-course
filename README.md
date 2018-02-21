@@ -7,7 +7,8 @@ If you're came here to learn some language then you came to the wrong place. The
 On the other hand, if you're here because you want to take your working knowledge to a whole new level and because you've always been fascinated by the 
 underlying principles that make computers work both on the hardware and software level then you came to the right place. 
 
-# Credit 
-
 This guide was inspired by [teachyourselfcs.com](https://teachyourselfcs.com/)
 
+# 01: Programming
+
+[ ] [Computer Science 61A - Lecture 1: functional programming 1](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8)
