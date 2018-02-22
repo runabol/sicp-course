@@ -24,7 +24,13 @@ The course makes use of the STK Scheme interpreter which can be downloaded and i
 
 [ ] Read [Section 1.1: The Elements of Programming](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1)
 
-[ ] Do exercise
+[ ] Write a procedure squares that takes a sentence of numbers as its argument and
+returns a sentence of the squares of the numbers:
+
+```
+> (squares ’(2 3 4 5))
+(4 `9 16 25)
+```
 
 [ ] Watch [Computer Science 61A - Lecture 2: functional programming 2](https://archive.org/details/ucberkeley_webcast_TTK2lZoWbPQ)
 
