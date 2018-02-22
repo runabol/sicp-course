@@ -6,7 +6,7 @@ It is based on Berkley's course delivered in Spring 2011 of the same name.
 
 The target audience are serious programmers looking to advance their knowledge beyond some specific  language or technology.
 
-The course itself is based on the highly acclaimed [SICP ](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871) book, which like red wine only gets better with age.
+The course itself is based on the highly acclaimed [SICP ](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871) book,  considered by many to be one of the most important Computer Science books ever written.
 
 # Usage
 
