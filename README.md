@@ -32,6 +32,19 @@ returns a sentence of the squares of the numbers:
 (4 `9 16 25)
 ```
 
+[ ] Write a procedure switch that takes a sentence as its argument and returns a sentence
+in which every instance of the words I or me is replaced by you, while every instance of
+you is replaced by me except at the beginning of the sentence, where it’s replaced by I.
+(Don’t worry about capitalization of letters.) Example:
+
+```
+> (switch ’(You told me that I should wake you up))
+(i told you that you should wake me up)
+```
+
+[ ] Write a predicate ordered? that takes a sentence of numbers as its argument and
+returns a true value if the numbers are in ascending order, or a false value otherwise.
+
 [ ] Watch [Computer Science 61A - Lecture 2: functional programming 2](https://archive.org/details/ucberkeley_webcast_TTK2lZoWbPQ)
 
 [ ] Watch [Computer Science 61A - Lecture 3: higher-order procedures 1](https://archive.org/details/ucberkeley_webcast_ogIGxEzvnSE)
