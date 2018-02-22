@@ -4,9 +4,9 @@ This is a course in programming.
 
 It is based on Berkley's course delivered in Spring 2011 of the same name.
 
-The target audience are serious programmers looking to advance their knowledge beyond a specific specific language or technology.
+The target audience are serious programmers looking to advance their knowledge beyond some specific  language or technology.
 
-The course is built around the highly acclaimed [SICP book](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871), which like red wine only gets better with time.
+The course itself is based on the highly acclaimed [SICP ](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871) book, which like red wine only gets better with time.
 
 # How to use this guide?
 
