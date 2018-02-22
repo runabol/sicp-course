@@ -25,7 +25,7 @@ The program is divided into 9 modules. Each module in turn is divided to items t
 
 [ ] Watch [Computer Science 61A - Lecture 4: higher-order procedures 2](https://archive.org/details/ucberkeley_webcast_ZvH3wF2qg7Q)
 
-[ ] Watch [Computer Science 61A - Lecture 5: user interface -Alan Kay-](https://archive.org/details/ucberkeley_webcast_dC4YGxzoAXk)
+[ ] Watch [Computer Science 61A - Lecture 5: user interface (Alan Kay)](https://archive.org/details/ucberkeley_webcast_dC4YGxzoAXk)
 
-[ ] Watch [Computer Science 61A - Lecture 6: user interface -Alan Kay-](https://archive.org/details/ucberkeley_webcast_qxDGE1-S_LE)
+[ ] Watch [Computer Science 61A - Lecture 6: user interface (Alan Kay)](https://archive.org/details/ucberkeley_webcast_qxDGE1-S_LE)
 
