@@ -42,7 +42,7 @@ you is replaced by me except at the beginning of the sentence, where it’s repl
 (i told you that you should wake me up)
 ```
 
-[ ] Write a predicate ordered? that takes a sentence of numbers as its argument and
+[ ] Write a predicate `ordered?` that takes a sentence of numbers as its argument and
 returns a true value if the numbers are in ascending order, or a false value otherwise.
 
 [ ] Watch [Computer Science 61A - Lecture 2: functional programming 2](https://archive.org/details/ucberkeley_webcast_TTK2lZoWbPQ)
