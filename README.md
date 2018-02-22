@@ -49,3 +49,17 @@ Study each item in sequence, checking off each item as you finish it before movi
 [ ] [Computer Science 61A - Lecture 17: generic operators](https://archive.org/details/ucberkeley_webcast_8HDIqZ2ZqKI)
 
 [ ] [Computer Science 61A - Lecture 18: object-oriented programming](https://archive.org/details/ucberkeley_webcast_jq1v8YUftxE)
+
+[ ] [Computer Science 61A - Lecture 19: object-oriented programming](https://archive.org/details/ucberkeley_webcast_S9mGKy3Dzqw)
+
+[ ] [Computer Science 61A - Lecture 20: object-oriented programming](https://archive.org/details/ucberkeley_webcast_AYoW8-L2dTQ)
+
+[ ] [Computer Science 61A - Lecture 21: assignment and state](https://archive.org/details/ucberkeley_webcast_crlcqL7lKME)
+
+[ ] [Computer Science 61A - Lecture 22: environments](https://archive.org/details/ucberkeley_webcast_uxvRoOV9nOk)
+
+[ ] [Computer Science 61A - Lecture 23: environments](https://archive.org/details/ucberkeley_webcast_jmDguUbxOns)
+
+[ ] [Computer Science 61A - Lecture 24: mutable data](https://archive.org/details/ucberkeley_webcast_OCocDioUZOo)
+
+[ ] [Computer Science 61A - Lecture 25: mutable data](https://archive.org/details/ucberkeley_webcast_YgUZP1YbHsM)
