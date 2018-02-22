@@ -48,3 +48,5 @@ The program is divided into 9 modules. Each module in turn is divided to items t
 [ ] Watch [Computer Science 61A - Lecture 16: generic operators](https://archive.org/details/ucberkeley_webcast_rz_XpDhDtFI)
 
 [ ] Watch [Computer Science 61A - Lecture 17: generic operators](https://archive.org/details/ucberkeley_webcast_8HDIqZ2ZqKI)
+
+[ ] Watch [Computer Science 61A - Lecture 18: object-oriented programming](https://archive.org/details/ucberkeley_webcast_jq1v8YUftxE)
