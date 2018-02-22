@@ -31,11 +31,33 @@ We deal with three big programming styles/approaches/paradigms:
 * Client-server programming (1 week)
 * Logic programming (1 week)
 
+The big idea of the course is abstraction: inventing languages that let us talk more nearly in a problem’s own terms and less in terms of the computer’s mechanisms or capabilities. There is a hierarchy of abstraction:
+
+Application programs
+High-level language (Scheme)
+Low-level language (C)
+Machine language
+Architecture (registers, memory, arithmetic unit, etc)
+circuit elements (gates)
+transistors
+solid-state physics
+quantum mechanics
+
+We look at lower levels; all are important but we want to start at the highest level to get you thinking right.
+
+
+
 # Week 1: Functional Programming
 
 [ ] Watch [Computer Science 61A - Lecture 1: functional programming 1](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8)
 
-[ ] Read [Section 1.1: The Elements of Programming (pages 1-31)](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1)
+[ ] Read [Section 1.1: The Elements of Programming](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1)
+
+[ ] Read [Section 1.1.1: Expressions](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1.1)
+
+[ ] Read [Section 1.1.2:  Naming and the Environment](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1.2)
+
+https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1.2
 
 [ ] Watch [Computer Science 61A - Lecture 2: functional programming 2](https://archive.org/details/ucberkeley_webcast_TTK2lZoWbPQ)
 
