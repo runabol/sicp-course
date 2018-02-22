@@ -32,3 +32,9 @@ The program is divided into 9 modules. Each module in turn is divided to items t
 [ ] Watch [Computer Science 61A - Lecture 7: orders of growth](https://archive.org/details/ucberkeley_webcast_32L5j10rrK0)
 
 [ ] Watch [Computer Science 61A - Lecture 8: recursion and iteration](https://archive.org/details/ucberkeley_webcast_0G3tNuBBO5I)
+
+[ ] Watch [Computer Science 61A - Lecture 9: data abstraction](https://archive.org/details/ucberkeley_webcast_Oy36XpGVyjA)
+
+[ ] Watch [Computer Science 61A - Lecture 10: sequences](https://archive.org/details/ucberkeley_webcast__qGeRWplPgc)
+
+[ ] Watch [Computer Science 61A - Lecture 11: Example: calculato](https://archive.org/details/ucberkeley_webcast_nzMPF59Ackg)
