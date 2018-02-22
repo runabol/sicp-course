@@ -21,4 +21,4 @@ The program is divided into 9 modules. Each module in turn is divided to items t
 
 [ ] Watch [Computer Science 61A - Lecture 2: functional programming 2](https://archive.org/details/ucberkeley_webcast_TTK2lZoWbPQ)
 
-[ ] Watch [Computer Science 61A - Lecture 3: higher-order procedures 1] (https://archive.org/details/ucberkeley_webcast_ogIGxEzvnSE)
+[ ] Watch [Computer Science 61A - Lecture 3: higher-order procedures 1](https://archive.org/details/ucberkeley_webcast_ogIGxEzvnSE)
