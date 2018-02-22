@@ -59,15 +59,15 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 4: higher-order procedures 2](https://archive.org/details/ucberkeley_webcast_ZvH3wF2qg7Q)
 
-[ ] Watch [Computer Science 61A - Lecture 5: user interface (Alan Kay)](https://archive.org/details/ucberkeley_webcast_dC4YGxzoAXk)
-
-[ ] Watch [Computer Science 61A - Lecture 6: user interface (Alan Kay)](https://archive.org/details/ucberkeley_webcast_qxDGE1-S_LE)
-
-[ ] Watch [Computer Science 61A - Lecture 7: orders of growth](https://archive.org/details/ucberkeley_webcast_32L5j10rrK0)
+[ ] Read [Formulating Abstractions with Higher-Order Procedures](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-12.html#%_sec_1.3)
 
 # Week 3: Recursion and iteration
 
+[ ] Watch [Computer Science 61A - Lecture 7: orders of growth](https://archive.org/details/ucberkeley_webcast_32L5j10rrK0)
+
 [ ] Watch [Computer Science 61A - Lecture 8: recursion and iteration](https://archive.org/details/ucberkeley_webcast_0G3tNuBBO5I)
+
+[ ] Read [ Section 1.2 through 1.2.4](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-11.html#%_sec_1.2)
 
 # Week 4: Data abstraction, sequences
 
@@ -115,17 +115,23 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 26: vectors](https://archive.org/details/ucberkeley_webcast_vV7gargdGxU)
 
+# Week 10: Client/server paradigm, Concurrency
+
 [ ] Watch [Computer Science 61A - Lecture 30: client-server programming](https://archive.org/details/ucberkeley_webcast_Lr4zVJPpMrM)
 
 [ ] Watch [Computer Science 61A - Lecture 31: concurrency](https://archive.org/details/ucberkeley_webcast_tfTD0B8dX7I)
 
 [ ] Watch [Computer Science 61A - Lecture 32: concurrency](https://archive.org/details/ucberkeley_webcast_a_qhlzmXqAo)
 
+# Week 11: Streams
+
 [ ] Watch [Computer Science 61A - Lecture 33: streams](https://archive.org/details/ucberkeley_webcast_LLl89UwSflo)
 
 [ ] Watch [Computer Science 61A - Lecture 34: streams](https://archive.org/details/ucberkeley_webcast_mtl0z0HgRTM)
 
 [ ] Watch [Computer Science 61A - Lecture 35: Therac-25](https://archive.org/details/ucberkeley_webcast_nxX-aAvZbmM)
+
+# Week 12: Metacircular evaluator
 
 [ ] Watch [Computer Science 61A - Lecture 36: metacircular evaluator](https://archive.org/details/ucberkeley_webcast_E8ZyYL1qWWY)
 
@@ -135,12 +141,20 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 39: mapreduce](https://archive.org/details/ucberkeley_webcast_tlABAGE-Tvc)
 
+# Week 13: Analyzing evaluator
+
 [ ] Watch [Computer Science 61A - Lecture 40: analyzing evaluator](https://archive.org/details/ucberkeley_webcast_S9VoxtdsRyA)
 
+# Week 14: Lazy evaluator, Nondeterministic evaluator
+
 [ ] Watch [Computer Science 61A - Lecture 41: lazy evaluator](https://archive.org/details/ucberkeley_webcast_WJsgTZsFE3M)
+
+# Week 15: Logic programming
 
 [ ] Watch [Computer Science 61A - Lecture 42: logic programming](https://archive.org/details/ucberkeley_webcast_JIMS_mspmug)
 
 [ ] Watch [Computer Science 61A - Lecture 43: logic programming](https://archive.org/details/ucberkeley_webcast_i5XtLVwTcZY)
+
+# Week 16: Review
 
 [ ] Watch [Computer Science 61A - Lecture 44: Review](https://archive.org/details/ucberkeley_webcast_zWiQru4tn-o)
