@@ -29,3 +29,6 @@ The program is divided into 9 modules. Each module in turn is divided to items t
 
 [ ] Watch [Computer Science 61A - Lecture 6: user interface (Alan Kay)](https://archive.org/details/ucberkeley_webcast_qxDGE1-S_LE)
 
+[ ] Watch [Computer Science 61A - Lecture 7: orders of growth](https://archive.org/details/ucberkeley_webcast_32L5j10rrK0)
+
+[ ] Watch [Computer Science 61A - Lecture 8: recursion and iteration](https://archive.org/details/ucberkeley_webcast_0G3tNuBBO5I)
