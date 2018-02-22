@@ -38,3 +38,6 @@ The program is divided into 9 modules. Each module in turn is divided to items t
 [ ] Watch [Computer Science 61A - Lecture 10: sequences](https://archive.org/details/ucberkeley_webcast__qGeRWplPgc)
 
 [ ] Watch [Computer Science 61A - Lecture 11: Example: calculato](https://archive.org/details/ucberkeley_webcast_nzMPF59Ackg)
+
+[ ] Watch [Computer Science 61A - Lecture 12: hierarchical data](https://archive.org/details/ucberkeley_webcast_pSuEz5ZCVAg)
+
