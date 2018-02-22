@@ -16,9 +16,13 @@ Study each item in sequence, checking off each item as you finish it before movi
 
 # The Course
 
+[ ] Read [Chapter 1: Building Abstractions with Procedures](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-9.html#%_chap_1)
+
 [ ] Watch [Computer Science 61A - Lecture 1: functional programming 1](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8)
 
 [ ] Read [Section 1.1: The Elements of Programming](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1)
+
+[ ] Do exercise
 
 [ ] Watch [Computer Science 61A - Lecture 2: functional programming 2](https://archive.org/details/ucberkeley_webcast_TTK2lZoWbPQ)
 
