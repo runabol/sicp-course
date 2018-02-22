@@ -18,32 +18,11 @@ The course makes use of the STK Scheme interpreter which can be downloaded and i
 
 # The Course
 
-[ ] Read [Chapter 1: Building Abstractions with Procedures](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-9.html#%_chap_1)
+## Week 1: Functional Programming
 
 [ ] Watch [Computer Science 61A - Lecture 1: functional programming 1](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8)
 
 [ ] Read [Section 1.1: The Elements of Programming](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1)
-
-[ ] Write a procedure squares that takes a sentence of numbers as its argument and
-returns a sentence of the squares of the numbers:
-
-```
-> (squares ’(2 3 4 5))
-(4 `9 16 25)
-```
-
-[ ] Write a procedure switch that takes a sentence as its argument and returns a sentence
-in which every instance of the words I or me is replaced by you, while every instance of
-you is replaced by me except at the beginning of the sentence, where it’s replaced by I.
-(Don’t worry about capitalization of letters.) Example:
-
-```
-> (switch ’(You told me that I should wake you up))
-(i told you that you should wake me up)
-```
-
-[ ] Write a predicate `ordered?` that takes a sentence of numbers as its argument and
-returns a true value if the numbers are in ascending order, or a false value otherwise.
 
 [ ] Watch [Computer Science 61A - Lecture 2: functional programming 2](https://archive.org/details/ucberkeley_webcast_TTK2lZoWbPQ)
 
