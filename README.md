@@ -63,3 +63,29 @@ Study each item in sequence, checking off each item as you finish it before movi
 [ ] [Computer Science 61A - Lecture 24: mutable data](https://archive.org/details/ucberkeley_webcast_OCocDioUZOo)
 
 [ ] [Computer Science 61A - Lecture 25: mutable data](https://archive.org/details/ucberkeley_webcast_YgUZP1YbHsM)
+
+[ ] [Computer Science 61A - Lecture 26: vectors](https://archive.org/details/ucberkeley_webcast_vV7gargdGxU)
+
+[ ] [Computer Science 61A - Lecture 30: client-server programming](https://archive.org/details/ucberkeley_webcast_Lr4zVJPpMrM)
+
+[ ] [Computer Science 61A - Lecture 31: concurrency](https://archive.org/details/ucberkeley_webcast_tfTD0B8dX7I)
+
+[ ] [Computer Science 61A - Lecture 32: concurrency](https://archive.org/details/ucberkeley_webcast_a_qhlzmXqAo)
+
+[ ] [Computer Science 61A - Lecture 33: streams](https://archive.org/details/ucberkeley_webcast_LLl89UwSflo)
+
+[ ] [Computer Science 61A - Lecture 34: streams](https://archive.org/details/ucberkeley_webcast_mtl0z0HgRTM)
+
+[ ] [Computer Science 61A - Lecture 35: Therac-25](https://archive.org/details/ucberkeley_webcast_nxX-aAvZbmM)
+
+[ ] [Computer Science 61A - Lecture 36: metacircular evaluator](https://archive.org/details/ucberkeley_webcast_E8ZyYL1qWWY)
+
+[ ] [Computer Science 61A - Lecture 37: metacircular evaluator](https://archive.org/details/ucberkeley_webcast_0SbpbHiyyEU)
+
+[ ] [Computer Science 61A - Lecture 38: mapreduce](https://archive.org/details/ucberkeley_webcast_OVbHFr6SG_8)
+
+[ ] [Computer Science 61A - Lecture 39: mapreduce](https://archive.org/details/ucberkeley_webcast_tlABAGE-Tvc)
+
+[ ] [Computer Science 61A - Lecture 40: analyzing evaluator](https://archive.org/details/ucberkeley_webcast_S9VoxtdsRyA)
+
+[ ]
