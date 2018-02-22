@@ -165,6 +165,8 @@ We look at lower levels; all are important but we want to start at the highest l
 
 # Week 12: Metacircular evaluator
 
+[ ] Read [Section 4.1: The Metacircular Evaluator](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-26.html#%_sec_4.1)
+
 [ ] Watch [Computer Science 61A - Lecture 36: metacircular evaluator](https://archive.org/details/ucberkeley_webcast_E8ZyYL1qWWY)
 
 [ ] Watch [Computer Science 61A - Lecture 37: metacircular evaluator](https://archive.org/details/ucberkeley_webcast_0SbpbHiyyEU)
