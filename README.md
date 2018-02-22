@@ -14,6 +14,8 @@ Fork the repo.
 
 Study each item in sequence, checking off each item as you finish it before moving on to the next item on the list.  
 
+The course makes use of the Scheme STK interpreter which can be downloaded and installed from [here](https://inst.eecs.berkeley.edu/~scheme/source/).
+
 # The Course
 
 [ ] Read [Chapter 1: Building Abstractions with Procedures](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-9.html#%_chap_1)
