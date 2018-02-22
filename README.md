@@ -16,9 +16,15 @@ Study each item in sequence, checking off each item as you finish it before movi
 
 The course makes use of the STK Scheme interpreter which can be downloaded and installed from [here](https://inst.eecs.berkeley.edu/~scheme/source/).
 
-# The Course
+# Course overview
 
-## Week 1: Functional Programming
+Computer science isn’t about computers (that’s electrical engineering) and it isn’t primarily a science (we invent things more than we discover them).
+
+CS is partly a form of engineering (concerned with building reliable, efficient mechanisms, but in software instead of metal) and partly an art form (using programming as a medium for creative expression).
+
+Programming is really easy, as long as you’re solving small problems. Any kid in junior high school can write programs in BASIC, and not just exercises, either; kids do quite interesting and useful things with computers. But BASIC doesn’t scale up; once the problem is so complicated that you can’t keep it all in your head at once, you need help, in the form of more powerful ways of thinking about programming. (But in this course we mostly use small examples, because we’d never get finished otherwise, so you have to imagine how you think each technique would work out in a larger case.)
+
+# Week 1: Functional Programming
 
 [ ] Watch [Computer Science 61A - Lecture 1: functional programming 1](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8)
 
