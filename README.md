@@ -181,9 +181,15 @@ We look at lower levels; all are important but we want to start at the highest l
 
 # Week 14: Lazy evaluator, Nondeterministic evaluator
 
+[ ] Read [Section 4.2: Variations on a Scheme -- Lazy Evaluation](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-27.html#%_sec_4.2)
+
+[ ] Read [Section 4.3: Variations on a Scheme -- Nondeterministic Computing](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-28.html#%_sec_4.3)
+
 [ ] Watch [Computer Science 61A - Lecture 41: lazy evaluator](https://archive.org/details/ucberkeley_webcast_WJsgTZsFE3M)
 
 # Week 15: Logic programming
+
+[ ] Read [Section 4.4.1-4.43](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-29.html#%_sec_4.4.1)
 
 [ ] Watch [Computer Science 61A - Lecture 42: logic programming](https://archive.org/details/ucberkeley_webcast_JIMS_mspmug)
 
