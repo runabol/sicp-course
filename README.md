@@ -12,7 +12,7 @@ The course itself is based on the highly acclaimed [SICP ](https://www.amazon.co
 
 Fork the repo.
 
-Study each item in sequence, checking off each item as you finish it before moving on to the next item on the list.  
+Study each item in sequence, checking off each item as you finish it.  
 
 The course makes use of the STK Scheme interpreter which can be downloaded and installed from [here](https://inst.eecs.berkeley.edu/~scheme/source/).
 
