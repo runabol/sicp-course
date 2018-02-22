@@ -67,13 +67,17 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 8: recursion and iteration](https://archive.org/details/ucberkeley_webcast_0G3tNuBBO5I)
 
-[ ] Read [ Section 1.2 through 1.2.4](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-11.html#%_sec_1.2)
+[ ] Read [Section 1.2 through 1.2.4](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-11.html#%_sec_1.2)
 
 # Week 4: Data abstraction, sequences
 
 [ ] Watch [Computer Science 61A - Lecture 9: data abstraction](https://archive.org/details/ucberkeley_webcast_Oy36XpGVyjA)
 
+[ ] Read [Sections 2.1: Introduction to Data Abstraction](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-14.html#%_sec_2.1)
+
 [ ] Watch [Computer Science 61A - Lecture 10: sequences](https://archive.org/details/ucberkeley_webcast__qGeRWplPgc)
+
+[ ] Read [Section 2.2.1: Representing Sequences](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-15.html#%_sec_2.2.1)
 
 [ ] Watch [Computer Science 61A - Lecture 11: Example: calculato](https://archive.org/details/ucberkeley_webcast_nzMPF59Ackg)
 
