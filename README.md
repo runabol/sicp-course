@@ -8,13 +8,13 @@ The target audience are serious programmers looking to advance their knowledge b
 
 The course itself is based on the highly acclaimed [SICP ](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871) book, which like red wine only gets better with age.
 
-# How to use this guide?
+# Usage
 
 Fork the repo.
 
 Study each item in sequence, checking off each item as you finish it before moving on to the next item on the list.  
 
-# The course
+# The Course
 
 [ ] [Computer Science 61A - Lecture 1: functional programming 1](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8)
 
