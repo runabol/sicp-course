@@ -57,8 +57,6 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Read [Section 1.1.2:  Naming and the Environment](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1.2)
 
-https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1.2
-
 [ ] Watch [Computer Science 61A - Lecture 2: functional programming 2](https://archive.org/details/ucberkeley_webcast_TTK2lZoWbPQ)
 
 [ ] Watch [Computer Science 61A - Lecture 3: higher-order procedures 1](https://archive.org/details/ucberkeley_webcast_ogIGxEzvnSE)
