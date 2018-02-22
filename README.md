@@ -34,13 +34,21 @@ We deal with three big programming styles/approaches/paradigms:
 The big idea of the course is abstraction: inventing languages that let us talk more nearly in a problem’s own terms and less in terms of the computer’s mechanisms or capabilities. There is a hierarchy of abstraction:
 
 Application programs
+
 High-level language (Scheme)
+
 Low-level language (C)
+
 Machine language
+
 Architecture (registers, memory, arithmetic unit, etc)
+
 circuit elements (gates)
-transistors
+
+transisto
+
 solid-state physics
+
 quantum mechanics
 
 We look at lower levels; all are important but we want to start at the highest level to get you thinking right.
