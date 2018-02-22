@@ -26,7 +26,7 @@ Programming is really easy, as long as you’re solving small problems. Any kid 
 
 We deal with three big programming styles/approaches/paradigms:
 
-..* Functional programming (2 months)
+⋅⋅* Functional programming (2 months)
 ..* Object-oriented programming (1 month)
 ..* Client-server programming (1 week)
 ..* Logic programming (1 week)
