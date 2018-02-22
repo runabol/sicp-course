@@ -12,7 +12,7 @@ The course itself is based on the highly acclaimed [SICP ](https://www.amazon.co
 
 Fork the repo.
 
-Study each item in sequence and check off each item once you've finished it and move on to the next item.  
+Study each item in sequence, checking off each item as you finish it before moving on to the next item on the list.  
 
 # The course
 
