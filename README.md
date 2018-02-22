@@ -1,6 +1,6 @@
 # Structure and Interpretation of Computer Programs
 
-This is a course in programming.
+This is a self-paced course in programming.
 
 It is based on Berkley's course delivered in Spring 2011 of the same name.
 
@@ -45,7 +45,7 @@ quantum mechanics
 
 We look at lower levels; all are important but we want to start at the highest level to get you thinking right.
 
-# Week 1: Functional Programming
+# Functional Programming
 
 [ ] Read [Section 1.1: The Elements of Programming](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1)
 
@@ -53,7 +53,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 2: functional programming 2](https://archive.org/details/ucberkeley_webcast_TTK2lZoWbPQ)
 
-# Week 2:  Higher-order procedures
+# Higher-order procedures
 
 [ ] Read [Formulating Abstractions with Higher-Order Procedures](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-12.html#%_sec_1.3)
 
@@ -61,7 +61,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 4: higher-order procedures 2](https://archive.org/details/ucberkeley_webcast_ZvH3wF2qg7Q)
 
-# Week 3: Recursion and iteration
+# Recursion and iteration
 
 [ ] Read [Section 1.2-1.2.4: Procedures and the Processes They Generate](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-11.html#%_sec_1.2)
 
@@ -69,7 +69,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 8: recursion and iteration](https://archive.org/details/ucberkeley_webcast_0G3tNuBBO5I)
 
-# Week 4: Data abstraction, sequences
+# Data abstraction, sequences
 
 [ ] Read [Section 2.2.1: Representing Sequences](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-15.html#%_sec_2.2.1)
 
@@ -81,7 +81,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 11: Example: calculato](https://archive.org/details/ucberkeley_webcast_nzMPF59Ackg)
 
-# Week 5: Hierarchical data/Scheme interpreter
+# Hierarchical data/Scheme interpreter
 
 [ ] Read [Section 2.2.2: Hierarchical Structures](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-15.html#%_sec_2.2.2)
 
@@ -97,7 +97,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 14: Example: Scheme-1 interpreter](https://archive.org/details/ucberkeley_webcast_3FjDrWv00Hc)
 
-# Week 6:  Generic operators
+# Generic operators
 
 [ ] Read [Section 2.4: Multiple Representations for Abstract Data](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-17.html#%_sec_2.4)
 
@@ -107,7 +107,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 17: generic operators](https://archive.org/details/ucberkeley_webcast_8HDIqZ2ZqKI)
 
-# Week 7: Object-oriented programming
+# Object-oriented programming
 
 [ ] Read [Object-Oriented Programming | Above the line view](http://inst.eecs.berkeley.edu/~cs61a/reader/aboveline.pdf)
 
@@ -117,7 +117,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 20: object-oriented programming](https://archive.org/details/ucberkeley_webcast_AYoW8-L2dTQ)
 
-# Week 8: Local state variables, environments
+# Local state variables, environments
 
 [ ] Read [Section 3.1: Assignment and Local State](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-20.html#%_sec_3.1)
 
@@ -131,7 +131,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 23: environments](https://archive.org/details/ucberkeley_webcast_jmDguUbxOns)
 
-# Week 9: Mutable data, queues, tables
+# Mutable data, queues, tables
 
 [ ] Read [Sections 3.3.1-3.3.3](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-22.html#%_sec_3.3.1)
 
@@ -141,7 +141,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 26: vectors](https://archive.org/details/ucberkeley_webcast_vV7gargdGxU)
 
-# Week 10: Client/server paradigm, Concurrency
+# Client/server paradigm, Concurrency
 
 [ ] Read [Section 3.4: Concurrency: Time Is of the Essence](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-23.html#%_sec_3.4)
 
@@ -151,7 +151,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 32: concurrency](https://archive.org/details/ucberkeley_webcast_a_qhlzmXqAo)
 
-# Week 11: Streams
+# Streams
 
 [ ] Read [Section 3.5.1-3.5.3](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-24.html#%_sec_3.5.1)
 
@@ -163,7 +163,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 35: Therac-25](https://archive.org/details/ucberkeley_webcast_nxX-aAvZbmM)
 
-# Week 12: Metacircular evaluator
+# Metacircular evaluator
 
 [ ] Read [Section 4.1: The Metacircular Evaluator](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-26.html#%_sec_4.1)
 
@@ -175,11 +175,11 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 39: mapreduce](https://archive.org/details/ucberkeley_webcast_tlABAGE-Tvc)
 
-# Week 13: Analyzing evaluator
+# Analyzing evaluator
 
 [ ] Watch [Computer Science 61A - Lecture 40: analyzing evaluator](https://archive.org/details/ucberkeley_webcast_S9VoxtdsRyA)
 
-# Week 14: Lazy evaluator, Nondeterministic evaluator
+# Lazy evaluator, Nondeterministic evaluator
 
 [ ] Read [Section 4.2: Variations on a Scheme -- Lazy Evaluation](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-27.html#%_sec_4.2)
 
@@ -187,7 +187,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 41: lazy evaluator](https://archive.org/details/ucberkeley_webcast_WJsgTZsFE3M)
 
-# Week 15: Logic programming
+# Logic programming
 
 [ ] Read [Section 4.4.1-4.43](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-29.html#%_sec_4.4.1)
 
@@ -195,6 +195,6 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 43: logic programming](https://archive.org/details/ucberkeley_webcast_i5XtLVwTcZY)
 
-# Week 16: Review
+# Review
 
 [ ] Watch [Computer Science 61A - Lecture 44: Review](https://archive.org/details/ucberkeley_webcast_zWiQru4tn-o)
