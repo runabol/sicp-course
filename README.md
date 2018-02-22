@@ -53,22 +53,6 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Read [Section 1.1: The Elements of Programming](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1)
 
-[ ] Read [Section 1.1.1: Expressions](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1.1)
-
-[ ] Read [Section 1.1.2:  Naming and the Environment](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1.2)
-
-[ ] Read [Section 1.1.3: Evaluating Combinations](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1.3)
-
-[ ] Read [Section 1.1.4: Compound Procedures](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1.4)
-
-[ ] Read [Section 1.1.5: The Substitution Model for Procedure Application](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1.5)
-
-[ ] Read [Section 1.1.6: Conditional Expressions and Predicates](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1.6)
-
-[ ] Read [Section 1.1.7: Example: Square Roots by Newton's Method](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1.7)
-
-[ ] Read [Section 1.1.8: Procedures as Black-Box Abstractions](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1.8)
-
 # Week 2:  Higher-order procedures
 
 [ ] Watch [Computer Science 61A - Lecture 3: higher-order procedures 1](https://archive.org/details/ucberkeley_webcast_ogIGxEzvnSE)
