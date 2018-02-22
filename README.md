@@ -87,7 +87,15 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 13: hierarchical data](https://archive.org/details/ucberkeley_webcast_kbqJ3UGPgOc)
 
+[ ] Read [Section 2.2.2: Hierarchical Structures](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-15.html#%_sec_2.2.2)
+
+[ ] Read [Section 2.2.3: Sequences as Conventional Interfaces](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-15.html#%_sec_2.2.3)
+
 [ ] Watch [Computer Science 61A - Lecture 14: Example: Scheme-1 interpreter](https://archive.org/details/ucberkeley_webcast_3FjDrWv00Hc)
+
+[ ] Read [Section 2.3.1: Quotation](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-16.html#%_sec_2.3.1)
+
+[ ] Read [2.3.3  Example: Representing Sets](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-16.html#%_sec_2.3.3)
 
 # Week 6:  Generic operators
 
