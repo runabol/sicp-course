@@ -24,6 +24,13 @@ CS is partly a form of engineering (concerned with building reliable, efficient 
 
 Programming is really easy, as long as you’re solving small problems. Any kid in junior high school can write programs in BASIC, and not just exercises, either; kids do quite interesting and useful things with computers. But BASIC doesn’t scale up; once the problem is so complicated that you can’t keep it all in your head at once, you need help, in the form of more powerful ways of thinking about programming. (But in this course we mostly use small examples, because we’d never get finished otherwise, so you have to imagine how you think each technique would work out in a larger case.)
 
+We deal with three big programming styles/approaches/paradigms:
+
+..* Functional programming (2 months)
+..* Object-oriented programming (1 month)
+..* Client-server programming (1 week)
+..* Logic programming (1 week)
+
 # Week 1: Functional Programming
 
 [ ] Watch [Computer Science 61A - Lecture 1: functional programming 1](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8)
