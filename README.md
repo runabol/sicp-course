@@ -101,9 +101,13 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 14: Example: Scheme-1 interpreter](https://archive.org/details/ucberkeley_webcast_3FjDrWv00Hc)
 
+# Week 6:  Generic operators
+
 [ ] Watch [Computer Science 61A - Lecture 16: generic operators](https://archive.org/details/ucberkeley_webcast_rz_XpDhDtFI)
 
 [ ] Watch [Computer Science 61A - Lecture 17: generic operators](https://archive.org/details/ucberkeley_webcast_8HDIqZ2ZqKI)
+
+# Week 7: Object-oriented programming
 
 [ ] Watch [Computer Science 61A - Lecture 18: object-oriented programming](https://archive.org/details/ucberkeley_webcast_jq1v8YUftxE)
 
@@ -111,11 +115,15 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 20: object-oriented programming](https://archive.org/details/ucberkeley_webcast_AYoW8-L2dTQ)
 
+# Week 8: Local state variables, environments
+
 [ ] Watch [Computer Science 61A - Lecture 21: assignment and state](https://archive.org/details/ucberkeley_webcast_crlcqL7lKME)
 
 [ ] Watch [Computer Science 61A - Lecture 22: environments](https://archive.org/details/ucberkeley_webcast_uxvRoOV9nOk)
 
 [ ] Watch [Computer Science 61A - Lecture 23: environments](https://archive.org/details/ucberkeley_webcast_jmDguUbxOns)
+
+# Week 9: Mutable data, queues, tables
 
 [ ] Watch [Computer Science 61A - Lecture 24: mutable data](https://archive.org/details/ucberkeley_webcast_OCocDioUZOo)
 
