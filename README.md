@@ -67,7 +67,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 [ ] Watch [Computer Science 61A - Lecture 8: recursion and iteration](https://archive.org/details/ucberkeley_webcast_0G3tNuBBO5I)
 
-[ ] Read [Section 1.2 through 1.2.4](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-11.html#%_sec_1.2)
+[ ] Read [Section 1.2-1.2.4: Procedures and the Processes They Generate](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-11.html#%_sec_1.2)
 
 # Week 4: Data abstraction, sequences
 
