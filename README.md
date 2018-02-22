@@ -41,3 +41,10 @@ The program is divided into 9 modules. Each module in turn is divided to items t
 
 [ ] Watch [Computer Science 61A - Lecture 12: hierarchical data](https://archive.org/details/ucberkeley_webcast_pSuEz5ZCVAg)
 
+[ ] Watch [Computer Science 61A - Lecture 13: hierarchical data](https://archive.org/details/ucberkeley_webcast_kbqJ3UGPgOc)
+
+[ ] Watch [Computer Science 61A - Lecture 14: Example: Scheme-1 interpreter](https://archive.org/details/ucberkeley_webcast_3FjDrWv00Hc)
+
+[ ] Watch [Computer Science 61A - Lecture 16: generic operators](https://archive.org/details/ucberkeley_webcast_rz_XpDhDtFI)
+
+[ ] Watch [Computer Science 61A - Lecture 17: generic operators](https://archive.org/details/ucberkeley_webcast_8HDIqZ2ZqKI)
