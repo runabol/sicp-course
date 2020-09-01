@@ -6,7 +6,7 @@ It is based on Berkley's course delivered in Spring 2011 of the same name.
 
 The target audience are serious programmers looking to advance their knowledge beyond some specific  language or technology.
 
-The course itself is based on the highly acclaimed [SICP ](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871) book,  considered by many to be one of the most important Computer Science books ever written.
+The course itself is based on the highly acclaimed [SICP ](http://sarabander.github.io/sicp/html/index.xhtml) book,  considered by many to be one of the most important Computer Science books ever written.
 
 # Usage
 
@@ -47,7 +47,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 # Functional Programming
 
-[ ] Read [Section 1.1: The Elements of Programming](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1)
+[ ] Read [Section 1.1: The Elements of Programming](http://sarabander.github.io/sicp/html/1_002e1.xhtml#g_t1_002e1)
 
 [ ] Watch [Computer Science 61A - Lecture 1: functional programming 1](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8)
 
@@ -55,7 +55,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 # Higher-order procedures
 
-[ ] Read [Formulating Abstractions with Higher-Order Procedures](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-12.html#%_sec_1.3)
+[ ] Read [Section 1.3: Formulating Abstractions with Higher-Order Procedures](http://sarabander.github.io/sicp/html/1_002e3.xhtml#g_t1_002e3)
 
 [ ] Watch [Computer Science 61A - Lecture 3: higher-order procedures 1](https://archive.org/details/ucberkeley_webcast_ogIGxEzvnSE)
 
@@ -63,7 +63,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 # Recursion and iteration
 
-[ ] Read [Section 1.2-1.2.4: Procedures and the Processes They Generate](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-11.html#%_sec_1.2)
+[ ] Read [Section 1.2-1.2.4: Procedures and the Processes They Generate](http://sarabander.github.io/sicp/html/1_002e2.xhtml#g_t1_002e2)
 
 [ ] Watch [Computer Science 61A - Lecture 7: orders of growth](https://archive.org/details/ucberkeley_webcast_32L5j10rrK0)
 
@@ -71,11 +71,11 @@ We look at lower levels; all are important but we want to start at the highest l
 
 # Data abstraction, sequences
 
-[ ] Read [Section 2.2.1: Representing Sequences](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-15.html#%_sec_2.2.1)
+[ ] Read [Section 2.2.1: Representing Sequences](http://sarabander.github.io/sicp/html/2_002e2.xhtml#g_t2_002e2_002e1)
 
 [ ] Watch [Computer Science 61A - Lecture 9: data abstraction](https://archive.org/details/ucberkeley_webcast_Oy36XpGVyjA)
 
-[ ] Read [Sections 2.1: Introduction to Data Abstraction](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-14.html#%_sec_2.1)
+[ ] Read [Sections 2.1: Introduction to Data Abstraction](http://sarabander.github.io/sicp/html/2_002e1.xhtml#g_t2_002e1)
 
 [ ] Watch [Computer Science 61A - Lecture 10: sequences](https://archive.org/details/ucberkeley_webcast__qGeRWplPgc)
 
@@ -83,13 +83,13 @@ We look at lower levels; all are important but we want to start at the highest l
 
 # Hierarchical data/Scheme interpreter
 
-[ ] Read [Section 2.2.2: Hierarchical Structures](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-15.html#%_sec_2.2.2)
+[ ] Read [Section 2.2.2: Hierarchical Structures](http://sarabander.github.io/sicp/html/2_002e2.xhtml#g_t2_002e2_002e2)
 
-[ ] Read [Section 2.2.3: Sequences as Conventional Interfaces](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-15.html#%_sec_2.2.3)
+[ ] Read [Section 2.2.3: Sequences as Conventional Interfaces](http://sarabander.github.io/sicp/html/2_002e2.xhtml#g_t2_002e2_002e3)
 
-[ ] Read [Section 2.3.1: Quotation](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-16.html#%_sec_2.3.1)
+[ ] Read [Section 2.3.1: Quotation](http://sarabander.github.io/sicp/html/2_002e3.xhtml#g_t2_002e3_002e1)
 
-[ ] Read [Section 2.3.3 Example: Representing Sets](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-16.html#%_sec_2.3.3)
+[ ] Read [Section 2.3.3 Example: Representing Sets](http://sarabander.github.io/sicp/html/2_002e3.xhtml#g_t2_002e3_002e3)
 
 [ ] Watch [Computer Science 61A - Lecture 12: hierarchical data](https://archive.org/details/ucberkeley_webcast_pSuEz5ZCVAg)
 
@@ -99,9 +99,9 @@ We look at lower levels; all are important but we want to start at the highest l
 
 # Generic operators
 
-[ ] Read [Section 2.4: Multiple Representations for Abstract Data](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-17.html#%_sec_2.4)
+[ ] Read [Section 2.4: Multiple Representations for Abstract Data](http://sarabander.github.io/sicp/html/2_002e4.xhtml#g_t2_002e4)
 
-[ ] Read [Section 2.5 (through 2.5.2): Systems with Generic Operations](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-18.html#%_sec_2.5)
+[ ] Read [Section 2.5 (through 2.5.2): Systems with Generic Operations](http://sarabander.github.io/sicp/html/2_002e5.xhtml#g_t2_002e5)
 
 [ ] Watch [Computer Science 61A - Lecture 16: generic operators](https://archive.org/details/ucberkeley_webcast_rz_XpDhDtFI)
 
@@ -119,9 +119,9 @@ We look at lower levels; all are important but we want to start at the highest l
 
 # Local state variables, environments
 
-[ ] Read [Section 3.1: Assignment and Local State](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-20.html#%_sec_3.1)
+[ ] Read [Section 3.1: Assignment and Local State](http://sarabander.github.io/sicp/html/3_002e1.xhtml#g_t3_002e1)
 
-[ ] Read [Section 3.2: The Environment Model of Evaluation](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-21.html#%_sec_3.2)
+[ ] Read [Section 3.2: The Environment Model of Evaluation](http://sarabander.github.io/sicp/html/3_002e2.xhtml#g_t3_002e2)
 
 [ ] Read [Object-Oriented Programming | Below the line view](http://inst.eecs.berkeley.edu/~cs61a/reader/belowline.pdf)
 
@@ -133,7 +133,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 # Mutable data, queues, tables
 
-[ ] Read [Sections 3.3.1-3.3.3](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-22.html#%_sec_3.3.1)
+[ ] Read [Sections 3.3.1-3.3.3](http://sarabander.github.io/sicp/html/3_002e3.xhtml#g_t3_002e3_002e1)
 
 [ ] Watch [Computer Science 61A - Lecture 24: mutable data](https://archive.org/details/ucberkeley_webcast_OCocDioUZOo)
 
@@ -143,7 +143,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 # Client/server paradigm, Concurrency
 
-[ ] Read [Section 3.4: Concurrency: Time Is of the Essence](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-23.html#%_sec_3.4)
+[ ] Read [Section 3.4: Concurrency: Time Is of the Essence](http://sarabander.github.io/sicp/html/3_002e4.xhtml#g_t3_002e4)
 
 [ ] Watch [Computer Science 61A - Lecture 30: client-server programming](https://archive.org/details/ucberkeley_webcast_Lr4zVJPpMrM)
 
@@ -153,9 +153,9 @@ We look at lower levels; all are important but we want to start at the highest l
 
 # Streams
 
-[ ] Read [Section 3.5.1-3.5.3](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-24.html#%_sec_3.5.1)
+[ ] Read [Section 3.5.1-3.5.3](http://sarabander.github.io/sicp/html/3_002e5.xhtml#g_t3_002e5_002e1)
 
-[ ] Read [Section 3.5.5: Modularity of Functional Programs and Modularity of Objects](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-24.html#%_sec_3.5.5)
+[ ] Read [Section 3.5.5: Modularity of Functional Programs and Modularity of Objects](http://sarabander.github.io/sicp/html/3_002e5.xhtml#g_t3_002e5_002e5)
 
 [ ] Watch [Computer Science 61A - Lecture 33: streams](https://archive.org/details/ucberkeley_webcast_LLl89UwSflo)
 
@@ -165,7 +165,7 @@ We look at lower levels; all are important but we want to start at the highest l
 
 # Metacircular evaluator
 
-[ ] Read [Section 4.1: The Metacircular Evaluator](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-26.html#%_sec_4.1)
+[ ] Read [Section 4.1: The Metacircular Evaluator](http://sarabander.github.io/sicp/html/4_002e1.xhtml#g_t4_002e1)
 
 [ ] Watch [Computer Science 61A - Lecture 36: metacircular evaluator](https://archive.org/details/ucberkeley_webcast_E8ZyYL1qWWY)
 
@@ -181,15 +181,15 @@ We look at lower levels; all are important but we want to start at the highest l
 
 # Lazy evaluator, Nondeterministic evaluator
 
-[ ] Read [Section 4.2: Variations on a Scheme -- Lazy Evaluation](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-27.html#%_sec_4.2)
+[ ] Read [Section 4.2: Variations on a Scheme -- Lazy Evaluation](http://sarabander.github.io/sicp/html/4_002e2.xhtml#g_t4_002e2)
 
-[ ] Read [Section 4.3: Variations on a Scheme -- Nondeterministic Computing](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-28.html#%_sec_4.3)
+[ ] Read [Section 4.3: Variations on a Scheme -- Nondeterministic Computing](http://sarabander.github.io/sicp/html/4_002e3.xhtml#g_t4_002e3)
 
 [ ] Watch [Computer Science 61A - Lecture 41: lazy evaluator](https://archive.org/details/ucberkeley_webcast_WJsgTZsFE3M)
 
 # Logic programming
 
-[ ] Read [Section 4.4.1-4.43](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-29.html#%_sec_4.4.1)
+[ ] Read [Section 4.4.1-4.43](http://sarabander.github.io/sicp/html/4_002e4.xhtml#g_t4_002e4_002e1)
 
 [ ] Watch [Computer Science 61A - Lecture 42: logic programming](https://archive.org/details/ucberkeley_webcast_JIMS_mspmug)
 
