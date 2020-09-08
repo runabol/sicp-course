@@ -14,7 +14,7 @@ Fork the repo.
 
 Study each item in sequence, checking off each item as you finish it.  
 
-The course makes use of the STK Scheme interpreter which can be downloaded and installed from [here](https://inst.eecs.berkeley.edu/~scheme/source/).
+You can use [Dr. Racket](https://racket-lang.org/) in [SICP compatibility mode](https://docs.racket-lang.org/sicp-manual/index.html?q=sicp#%28part._.Introduction_to_the__lang_sicp_language%29) to execute the code in the book.
 
 # Course overview
 
